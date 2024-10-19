@@ -1,5 +1,6 @@
 # CanvasMidterm
 Midtermfor6700
+GO TO MASTER BRANCH FOR ACCESS OF CODE
 
 After 30+ hours I can officially say I have learned a lot from this haha! I had to do LOTS of research but am proud of it. Here are my hooks and context files and there intended purposes.
 
